@@ -1,2 +1,3 @@
 # Connect-everything
-control the devices via in the Internet
+control the devices via the Internet
+###
